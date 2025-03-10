@@ -21,3 +21,17 @@ The Online Courses Analysis project provides an in-depth exploration of online c
 * Language Learning
 * Math and Logic
 * Personal Development
+
+2. Course Type Popularity
+
+* Displays the popularity of different course types:
+* Courses: 2.3K enrollments
+* Specializations: 0.8K enrollments
+* Professional Certificates: 0.6K enrollments
+* Courses dominate the enrollment trends.
+
+3. Courses as Per Language and Sub-Category
+
+* Shows the number of courses available across different languages and sub-categories.
+* English has the highest course count.
+* Sub-categories such as Programming, Data Science, and Business have a high number of courses.
