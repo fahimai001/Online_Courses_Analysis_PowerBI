@@ -81,3 +81,5 @@ The Online Courses Analysis project provides an in-depth exploration of online c
 * Overall Average: 3.80 skills provided per course, 57.11 hours duration
 
 # Conclusion
+
+This dashboard provides a comprehensive analysis of online course trends, helping learners and educators make informed decisions about course selection, skill development, and language preferences.
