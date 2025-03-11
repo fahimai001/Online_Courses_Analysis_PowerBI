@@ -49,3 +49,18 @@ The Online Courses Analysis project provides an in-depth exploration of online c
 
 * The average number of viewers increases with the number of subtitles available.
 * Courses with 26 subtitle languages have the highest viewership (~85K viewers).
+
+7. Instructor Ratings
+
+* Top-rated instructors (average rating of 4.9 out of 5) include:
+* Ashish Khandelwal
+* Collin Paschall
+* Don Boyes
+* Douglas B. Laney
+* Kevin Hartman
+* Oktay Urcan
+
+8. Viewership by Lecture Duration
+
+* Viewer engagement varies with lecture duration.
+* Courses with around 700 hours of duration have peak viewership (~28K viewers).
