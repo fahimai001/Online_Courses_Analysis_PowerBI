@@ -35,3 +35,17 @@ The Online Courses Analysis project provides an in-depth exploration of online c
 * Shows the number of courses available across different languages and sub-categories.
 * English has the highest course count.
 * Sub-categories such as Programming, Data Science, and Business have a high number of courses.
+
+4. Demanding Skills
+
+* A word cloud visualization highlights the most in-demand skills such as Machine Learning, Data Science, Programming, Communication, and Project Management.
+
+5. Most Prominent Languages
+
+* A pie chart showcases the distribution of courses by language.
+* English is the most dominant language, covering 87.33% of courses.
+
+6. Viewership by Subtitle Count
+
+* The average number of viewers increases with the number of subtitles available.
+* Courses with 26 subtitle languages have the highest viewership (~85K viewers).
