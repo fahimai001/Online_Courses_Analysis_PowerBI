@@ -64,3 +64,20 @@ The Online Courses Analysis project provides an in-depth exploration of online c
 
 * Viewer engagement varies with lecture duration.
 * Courses with around 700 hours of duration have peak viewership (~28K viewers).
+
+9. Category-wise Analysis
+
+* Top categories by average views:
+* Data Science: 6383
+* Information Technology: 4648
+* Computer Science: 4404
+* Personal Development: 3221
+* Language Learning: 2925
+
+10. Skills and Duration per Category
+
+* Highest average skill count: Data Science (4.74 skills/course)
+* Longest average course duration: Arts & Humanities (60.03 hours/course)
+* Overall Average: 3.80 skills provided per course, 57.11 hours duration
+
+# Conclusion
